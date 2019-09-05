@@ -33,8 +33,6 @@
       "packageInstance": "new TwilioVoicePackage()"
     }
   },
-  "author": {
-    "name": "Fabrizio Moscon"
-  },
+  "author": "Fabrizio Moscon",
   "license": "MIT"
 }
